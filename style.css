@@ -1,0 +1,46 @@
+.box,
+.box_2{
+
+    height: 400px;
+    width: 700px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.circle,
+.circle_2{
+
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.box{
+
+    
+    background-color: green;
+}
+
+.circle{
+    
+    background-color: red;
+}
+
+.box_2{
+    
+    background-color: #006A4E;
+}
+
+.circle_2{
+
+    
+    background-color: #F42A41;
+}
+
+.space{
+
+    margin: 100px 0;
+}
